@@ -12,7 +12,7 @@
 RootModule = 'RootModule.psm1'
 
 # Version number of this module.
-ModuleVersion = '0.0.$CI_PIPELINE_ID'
+ModuleVersion = '0.0.42'
 
 # Supported PSEditions
 # CompatiblePSEditions = @()
