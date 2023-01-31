@@ -12,7 +12,7 @@
 RootModule = 'RootModule.psm1'
 
 # Version number of this module.
-ModuleVersion = '0.0.42'
+ModuleVersion = '0.0.47'
 
 # Supported PSEditions
 # CompatiblePSEditions = @()
@@ -33,7 +33,7 @@ Copyright = '(c) Robert Fewster. All rights reserved.'
 Description = 'Tools for interacting with the Checkout.com API for payment processing'
 
 # Minimum version of the PowerShell engine required by this module
-PowerShellVersion = '7.2'
+PowerShellVersion = '7.1'
 
 # Name of the PowerShell host required by this module
 # PowerShellHostName = ''
